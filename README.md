@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Yunghub
-- 👀 I’m interested in technology
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on YungCZ.com
-- 📫 How to reach me?
+- 👋 Hi, I’m @Yunghub, I'm the founder of YungCZ.
+- 👀 I’m interested in technology, especially in hardware and the server space.
+- 🌱 I’m currently learning Python and computing in general!
+- 💞️ I’m looking to collaborate on www.YungCZ.com/projects
+- 📫 How to reach me? www.YungCZ.com/contact
