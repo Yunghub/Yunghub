@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Yunghub, I'm the founder of YungCZ.
+- 👋 Hi, I’m @Yunghub, I'm the founder of APHORUS Limited, Vice-President of [UCL Fleming Society](https://github.com/Fleming-Society).
 - 👀 I’m interested in technology, especially in hardware and the server space.
-- 🌱 I’m currently learning Python and computing in general!
-- 💞️ I’m looking to collaborate on https://YungCZ.com/projects
-- 📫 How to reach me? https://YungCZ.com/contact
+- 🌱 I’m currently learning Electronic and Electrical Engineering at UCL!
+- 💞️ I’m looking to collaborate on [YungCZ Projects Page](https://YungCZ.com/projects).
+- 📫 How to reach me? [YungCZ Contacts Page](https://YungCZ.com/contact).
