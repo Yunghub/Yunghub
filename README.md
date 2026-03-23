@@ -9,8 +9,17 @@
 <a href="https://linkedin.com/in/yungcz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yungcz" height="30" width="40" /></a>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yunghub&show_icons=true&locale=en&layout=compact&hide=c" alt="yunghub" />
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=yunghub&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub stats"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunghub&layout=compact&langs_count=8&hide=c&theme=tokyonight&hide_border=true"
+    alt="Top languages"
+    height="165"
+  />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
